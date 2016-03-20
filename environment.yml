@@ -1,0 +1,99 @@
+name: open-ml
+dependencies:
+- decorator=4.0.9=py35_0
+- fontconfig=2.11.1=5
+- freetype=2.5.5=0
+- ipykernel=4.3.1=py35_0
+- ipython=4.1.2=py35_0
+- ipython_genutils=0.1.0=py35_0
+- ipywidgets=4.1.1=py35_0
+- jinja2=2.8=py35_0
+- jsonschema=2.4.0=py35_0
+- jupyter=1.0.0=py35_1
+- jupyter_client=4.2.1=py35_0
+- jupyter_console=4.1.1=py35_0
+- jupyter_core=4.1.0=py35_0
+- libgfortran=3.0=0
+- libpng=1.6.17=0
+- libsodium=1.0.3=0
+- libxml2=2.9.2=0
+- markupsafe=0.23=py35_0
+- mistune=0.7.2=py35_0
+- mkl=11.3.1=0
+- nbconvert=4.1.0=py35_0
+- nbformat=4.0.1=py35_0
+- nose=1.3.7=py35_0
+- notebook=4.1.0=py35_1
+- numpy=1.10.4=py35_1
+- openblas=0.2.14=4
+- openssl=1.0.2g=0
+- path.py=8.1.2=py35_1
+- pexpect=3.3=py35_0
+- pickleshare=0.5=py35_0
+- ptyprocess=0.5=py35_0
+- pygments=2.1.1=py35_0
+- pyqt=4.11.4=py35_1
+- python=3.5.1=0
+- pyzmq=15.2.0=py35_0
+- qt=4.8.7=1
+- qtconsole=4.1.1=py35_1
+- readline=6.2=2
+- requests=2.9.1=py35_0
+- scipy=0.17.0=np110py35_2
+- setuptools=20.2.2=py35_0
+- simplegeneric=0.8.1=py35_0
+- sip=4.16.9=py35_0
+- sqlite=3.9.2=0
+- terminado=0.5=py35_1
+- tk=8.5.18=0
+- tornado=4.3=py35_0
+- traitlets=4.1.0=py35_0
+- wheel=0.29.0=py35_0
+- xz=5.0.5=1
+- zeromq=4.1.3=0
+- zlib=1.2.8=0
+- pandas=0.17.0
+- numexpr=2.4
+- matplotlib=1.4.3
+- scikit-learn=0.16.1
+- pip=8.1.1
+- pip:
+  - pyparsing==2.1.0
+  - alabaster==0.7.7
+  - appnope==0.1.0
+  - babel==2.2.0
+  - bokeh==0.10.0
+  - climate==0.4.6
+  - docutils==0.12
+  - downhill==0.3.2
+  - flask==0.10.1
+  - ipyparallel==5.0.1
+  - ipython-genutils==0.1.0
+  - itsdangerous==0.24
+  - jupyter-client==4.2.1
+  - jupyter-console==4.1.1
+  - jupyter-core==4.1.0
+  - mock==1.3.0
+  - mpld3==0.2
+  - neurolab==0.3.5
+  - numpydoc==0.6.0
+  - openpyxl==1.8.6
+  - pbr==1.8.1
+  - plac==0.9.1
+  - plotly==1.8.6
+  - pybrain==0.3
+  - python-dateutil==2.5.0
+  - pytz==2016.1
+  - pyyaml==3.11
+  - rep==0.6.5
+  - six==1.10.0
+  - snowballstemmer==1.2.1
+  - sphinx==1.3.6
+  - sphinx-rtd-theme==0.1.9
+  - testpath==0.3
+  - theanets==0.6.2
+  - theano==0.7.0
+  - werkzeug==0.11.4
+  - xmltodict==0.10.1
+  - jupyterhub==0.5.0
+
