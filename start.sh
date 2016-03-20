@@ -4,6 +4,8 @@ NOTEBOOK_DIR=/root/analysis
 source activate open-ml 
 
 if [ -n "$JPY_API_TOKEN" ] ; then
+git clone --depth 1 $JPY_GITHUBURL $NOTEBOOK_DIR > $HOME/git.log
+
 jupyterhub-singleuser \
   --port=8888 \
   --ip=0.0.0.0 \
